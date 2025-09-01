@@ -1,0 +1,18 @@
+# dotnet
+bin
+obj
+
+# visual studio
+.vs
+
+# macos
+.DS_Store
+
+# visual studio code
+.vscode
+
+# nuget
+nuget
+
+# environment
+.env
