@@ -1,7 +1,7 @@
-# coursera_dotnet_simple-api
-Peer-graded Assignment: Project: Building a Simple API with Copilot
-Clone this Git Repo : https://github.com/ce-shyam21/coursera_dotnet_simple-api.git
-Or Download Zip.
+# Back-End Development with .NET
+
+## Final Project: Building a Simple API with Copilot
+
 ✅ Run It
 dotnet run
 
